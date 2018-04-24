@@ -1,4 +1,5 @@
-## Solutions of VE492 problems
+# VE492
+## (Introduction to Artificial Intelligence)
 
 There are 60 problems in total, which is divided into four categories:
 
