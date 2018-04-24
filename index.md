@@ -1,6 +1,6 @@
 ## Solutions of VE492 problems
 
-There are 60 problems in total, which is divided into for categories:
+There are 60 problems in total, which is divided into four categories:
 
 + [Learning and search methods](./learn_search)
 + [Probabilistic graphical model](./prob_model)
